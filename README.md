@@ -39,7 +39,4 @@ Projeni LinkedIn veya CV'nde paylaşırken aşağıdaki gibi bir açıklama kull
 > Teknolojiler: Python, Pytest, Selenium, Locust, Requests, Git, GitHub
 
 ---
-
-Eğer bu düzenlemeleri yaparken herhangi bir sorunla karşılaşırsan veya daha fazla yardım istersen, buradayım! 💻✨
-::contentReference[oaicite:0]{index=0}
  
