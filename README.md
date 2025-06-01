@@ -2,7 +2,7 @@
 
 Bu repo, QA test otomasyonu çalışmalarımı içeriyor. Aşağıdaki projeler bulunmaktadır:
 
-## 📁 Projeler
+## Projeler
 
 ### 1. KahramanUktenAutomationProject
 - **Açıklama:** Selenium ile web arayüz testleri.
@@ -19,18 +19,18 @@ Bu repo, QA test otomasyonu çalışmalarımı içeriyor. Aşağıdaki projeler 
 - **Teknolojiler:** Python, Requests, Pytest
 - **Klasör:** `KahramanUktenPetstoreAPITest/`
 
-## 🚀 Kurulum ve Kullanım
+## Kurulum ve Kullanım
 
 Her proje klasörü içinde `README.md` dosyası bulunmaktadır. Kurulum ve kullanım talimatları için ilgili klasörün `README.md` dosyasını inceleyebilirsiniz.
 
-## 📌 Notlar
+## Notlar
 
 - Projeler, Python 3.13 sürümü ile geliştirilmiştir.
 - Gerekli bağımlılıklar her projenin `requirements.txt` dosyasında belirtilmiştir.
 
 ---
 
-### 🔗 Projeyi Paylaşma
+### Projeyi Paylaşma
 
 Projeni LinkedIn veya CV'nde paylaşırken aşağıdaki gibi bir açıklama kullanabilirsin:
 
